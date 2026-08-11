@@ -13,7 +13,7 @@ Riot API.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="graphs/wgffwgf-janna-dark.svg">
-  <img alt="LoL contribution graph card" src="graphs/ffjgldiff-mst-light.svg">
+  <img alt="LoL contribution graph card" src="graphs/wgffgwgf-janna-light.svg">
 </picture>
 
 ## Quick start
