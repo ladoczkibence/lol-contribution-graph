@@ -12,7 +12,7 @@ play streaks. A GitHub Action refreshes everything every 30 minutes, straight fr
 Riot API.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="graphs/ffjgldiff-mst-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="graphs/wgffwgf-janna-dark.svg">
   <img alt="LoL contribution graph card" src="graphs/ffjgldiff-mst-light.svg">
 </picture>
 
