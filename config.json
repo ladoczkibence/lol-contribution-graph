@@ -1,0 +1,8 @@
+{
+  "players": [
+    { "gameName": "ffjgldiff", "tagLine": "MST", "region": "euw1" }
+  ],
+  "days": 365,
+  "timezone": "Europe/Paris",
+  "queue": null
+}
