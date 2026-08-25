@@ -48,17 +48,17 @@
         "2026-04-01": 1,
         "2026-04-02": 1,
         "2026-06-01": 3,
-        "2026-07-26": 3
+        "2026-07-26": 3,
+        "2026-08-25": 1
       },
       "fetchedThrough": "2026-08-25",
       "profile": {
         "iconId": 518,
-        "level": 656
+        "level": 657
       },
       "puuid": "NX6ZoewVXjOdSQep8EzsIEICnnRpRDMPDDBAmxPKDc7Ypa5wBHR-BtB3Eo3FeNxcqOpyHvxNor6z2w",
       "rank": null,
       "roles": {
-        "EUN1_3893549511": "JUNGLE",
         "EUN1_3893562655": "JUNGLE",
         "EUN1_3893587288": "JUNGLE",
         "EUN1_3893610383": "JUNGLE",
@@ -77,9 +77,10 @@
         "EUN1_3959282461": null,
         "EUN1_3982467539": null,
         "EUN1_3982518153": null,
-        "EUN1_3982527178": null
+        "EUN1_3982527178": null,
+        "EUN1_3994818893": "TOP"
       },
-      "topRole": "JUNGLE",
+      "topRole": "TOP",
       "trackedSince": "2025-08-12"
     }
   }
