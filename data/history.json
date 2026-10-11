@@ -49,7 +49,8 @@
         "2026-04-02": 1,
         "2026-06-01": 3,
         "2026-07-26": 3,
-        "2026-08-25": 1
+        "2026-08-25": 1,
+        "2026-10-11": 1
       },
       "fetchedThrough": "2026-10-11",
       "profile": {
@@ -59,7 +60,6 @@
       "puuid": "NX6ZoewVXjOdSQep8EzsIEICnnRpRDMPDDBAmxPKDc7Ypa5wBHR-BtB3Eo3FeNxcqOpyHvxNor6z2w",
       "rank": null,
       "roles": {
-        "EUN1_3893562655": "JUNGLE",
         "EUN1_3893587288": "JUNGLE",
         "EUN1_3893610383": "JUNGLE",
         "EUN1_3905620925": null,
@@ -78,7 +78,8 @@
         "EUN1_3982467539": null,
         "EUN1_3982518153": null,
         "EUN1_3982527178": null,
-        "EUN1_3994818893": "TOP"
+        "EUN1_3994818893": "TOP",
+        "EUN1_4013996441": null
       },
       "topRole": "TOP",
       "trackedSince": "2025-08-12"
